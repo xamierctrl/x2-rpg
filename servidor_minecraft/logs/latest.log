@@ -1,0 +1,109 @@
+[05:17:33] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[05:17:33] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.16.3
+	   \-- mixinextras 0.4.1
+	- java 17
+	- minecraft 1.20.1
+[05:17:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/x2-rpg/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[05:17:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:17:40] [main/INFO]: Loaded 7 recipes
+[05:17:40] [main/INFO]: Loaded 1271 advancements
+[05:17:40] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[05:17:40] [Server thread/INFO]: Loading properties
+[05:17:40] [Server thread/INFO]: Default game type: SURVIVAL
+[05:17:40] [Server thread/INFO]: Generating keypair
+[05:17:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[05:17:40] [Server thread/INFO]: Using epoll channel type
+[05:17:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[05:17:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[05:17:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[05:17:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[05:17:40] [Server thread/INFO]: Preparing level "world"
+[05:17:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[05:17:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:17:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:17:47] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[05:17:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[05:17:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[05:17:49] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[05:17:49] [Worker-Main-3/INFO]: Preparing spawn area: 1%
+[05:17:50] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[05:17:50] [Worker-Main-1/INFO]: Preparing spawn area: 3%
+[05:17:51] [Worker-Main-3/INFO]: Preparing spawn area: 4%
+[05:17:51] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[05:17:52] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[05:17:52] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[05:17:53] [Worker-Main-1/INFO]: Preparing spawn area: 11%
+[05:17:53] [Worker-Main-1/INFO]: Preparing spawn area: 13%
+[05:17:54] [Worker-Main-1/INFO]: Preparing spawn area: 15%
+[05:17:54] [Worker-Main-3/INFO]: Preparing spawn area: 17%
+[05:17:55] [Worker-Main-3/INFO]: Preparing spawn area: 19%
+[05:17:55] [Worker-Main-1/INFO]: Preparing spawn area: 22%
+[05:17:56] [Worker-Main-1/INFO]: Preparing spawn area: 23%
+[05:17:56] [Worker-Main-3/INFO]: Preparing spawn area: 25%
+[05:17:57] [Worker-Main-3/INFO]: Preparing spawn area: 27%
+[05:17:57] [Worker-Main-3/INFO]: Preparing spawn area: 31%
+[05:17:58] [Worker-Main-1/INFO]: Preparing spawn area: 32%
+[05:17:58] [Worker-Main-1/INFO]: Preparing spawn area: 34%
+[05:17:59] [Worker-Main-3/INFO]: Preparing spawn area: 36%
+[05:17:59] [Worker-Main-2/INFO]: Preparing spawn area: 39%
+[05:18:00] [Worker-Main-2/INFO]: Preparing spawn area: 42%
+[05:18:00] [Worker-Main-3/INFO]: Preparing spawn area: 43%
+[05:18:01] [Worker-Main-3/INFO]: Preparing spawn area: 46%
+[05:18:01] [Worker-Main-3/INFO]: Preparing spawn area: 49%
+[05:18:02] [Worker-Main-1/INFO]: Preparing spawn area: 52%
+[05:18:02] [Worker-Main-1/INFO]: Preparing spawn area: 54%
+[05:18:03] [Worker-Main-1/INFO]: Preparing spawn area: 57%
+[05:18:03] [Worker-Main-3/INFO]: Preparing spawn area: 60%
+[05:18:04] [Worker-Main-2/INFO]: Preparing spawn area: 62%
+[05:18:04] [Worker-Main-2/INFO]: Preparing spawn area: 65%
+[05:18:05] [Worker-Main-2/INFO]: Preparing spawn area: 68%
+[05:18:05] [Worker-Main-3/INFO]: Preparing spawn area: 71%
+[05:18:06] [Worker-Main-2/INFO]: Preparing spawn area: 73%
+[05:18:06] [Worker-Main-1/INFO]: Preparing spawn area: 76%
+[05:18:07] [Worker-Main-3/INFO]: Preparing spawn area: 79%
+[05:18:07] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[05:18:08] [Worker-Main-3/INFO]: Preparing spawn area: 86%
+[05:18:08] [Worker-Main-2/INFO]: Preparing spawn area: 89%
+[05:18:09] [Worker-Main-3/INFO]: Preparing spawn area: 93%
+[05:18:09] [Worker-Main-3/INFO]: Preparing spawn area: 97%
+[05:18:09] [Server thread/INFO]: Time elapsed: 23308 ms
+[05:18:09] [Server thread/INFO]: Done (28.988s)! For help, type "help"
+[05:22:54] [Server thread/INFO]: XamierCtrl[/127.247.5.247:58371] logged in with entity id 253 at (-125.5, 74.0, -56.5)
+[05:22:54] [Server thread/INFO]: XamierCtrl joined the game
+[05:22:54] [Server thread/INFO]: XamierCtrl lost connection: Disconnected
+[05:22:54] [Server thread/INFO]: XamierCtrl left the game
+[05:23:07] [Server thread/INFO]: Tianeska[/127.170.31.20:40853] logged in with entity id 338 at (-135.5, 74.0, -55.5)
+[05:23:07] [Server thread/INFO]: Tianeska joined the game
+[05:23:07] [Server thread/INFO]: Tianeska lost connection: Disconnected
+[05:23:07] [Server thread/INFO]: Tianeska left the game
+[05:23:18] [Server thread/INFO]: Tianeska[/127.170.31.20:60987] logged in with entity id 357 at (-135.5, 74.0, -55.5)
+[05:23:18] [Server thread/INFO]: Tianeska joined the game
+[05:23:19] [Server thread/INFO]: Tianeska lost connection: Disconnected
+[05:23:19] [Server thread/INFO]: Tianeska left the game
+[05:23:29] [Server thread/INFO]: Tianeska[/127.170.31.20:49771] logged in with entity id 392 at (-135.5, 74.0, -55.5)
+[05:23:29] [Server thread/INFO]: Tianeska joined the game
+[05:23:29] [Server thread/INFO]: Tianeska lost connection: Disconnected
+[05:23:29] [Server thread/INFO]: Tianeska left the game
+[05:23:37] [Server thread/INFO]: XamierCtrl[/127.247.5.247:47891] logged in with entity id 404 at (-125.5, 74.0, -56.5)
+[05:23:37] [Server thread/INFO]: XamierCtrl joined the game
+[05:23:38] [Server thread/INFO]: XamierCtrl lost connection: Disconnected
+[05:23:38] [Server thread/INFO]: XamierCtrl left the game
+[05:33:36] [Server thread/INFO]: Tianeska[/127.170.31.20:59751] logged in with entity id 426 at (-135.5, 74.0, -55.5)
+[05:33:36] [Server thread/INFO]: Tianeska joined the game
+[05:33:36] [Server thread/INFO]: Tianeska lost connection: Disconnected
+[05:33:36] [Server thread/INFO]: Tianeska left the game
+[05:33:41] [Server thread/INFO]: Tianeska[/127.170.31.20:59095] logged in with entity id 439 at (-135.5, 74.0, -55.5)
+[05:33:41] [Server thread/INFO]: Tianeska joined the game
+[05:33:41] [Server thread/INFO]: Tianeska lost connection: Disconnected
+[05:33:41] [Server thread/INFO]: Tianeska left the game
+[05:33:54] [Server thread/INFO]: Tianeska[/127.170.31.20:48099] logged in with entity id 467 at (-135.5, 74.0, -55.5)
+[05:33:54] [Server thread/INFO]: Tianeska joined the game
+[05:33:54] [Server thread/INFO]: Tianeska lost connection: Disconnected
+[05:33:54] [Server thread/INFO]: Tianeska left the game
+[05:34:05] [Server thread/INFO]: Tianeska[/127.170.31.20:57063] logged in with entity id 488 at (-135.5, 74.0, -55.5)
+[05:34:05] [Server thread/INFO]: Tianeska joined the game
+[05:34:05] [Server thread/INFO]: Tianeska lost connection: Disconnected
+[05:34:05] [Server thread/INFO]: Tianeska left the game
+[05:35:07] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[05:35:07] [Server thread/INFO]: 1<--[HERE]
